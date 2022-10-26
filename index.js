@@ -6,12 +6,25 @@ app.use(cors());
 
 const courses = require('./courses.json');
 
+const courseDetails = require('./course-details.json')
+
 app.get('/', (req, res) => {
   res.send('Monster Tech Courses Is Running')
 })
 
 app.get('/course', (req, res) => {
     res.send(courses)
+})
+
+app.get('/course/:id', (req, res) => {
+    const id = req.params.id
+    if (id === "08") {
+        res.send(courseDetails)
+    } else {
+        const selectedCourse = courseDetails.filter(n => n.catagory_id === id)
+        res.send(selectedCourse)  
+    }
+    
 })
 
 app.listen(port, () => {

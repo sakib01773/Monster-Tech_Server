@@ -1,0 +1,118 @@
+[
+        {
+            "_id": "6358327041572725c38fb7fb",
+            "catagory_id": "01",
+            "details": "It was mainly developed as a system programming language to write an operating system. The main features of the C language include low-level memory access, a simple set of keywords, and a clean style, these features make C language suitable for system programmings like an operating system or compiler development.C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs.",
+            "price": 550,
+            "img": "https://bit.ly/3FeoSiH",
+            "name": "C Programming"
+        },
+        
+        {
+          "_id": "6358327041572725c38fb7fb",
+          "catagory_id": "02",
+          "details": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext' refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.",
+          "price": 132,
+          "img": "https://bit.ly/3TAPE9B",
+          "name": "Python"
+        },
+        {
+          "_id": "6358327037a91ba062e02e00",
+          "catagory_id": "05",
+          "details": "The CSS box model is a container that contains multiple properties including borders, margin, padding, and the content itself. It is used to create the design and layout of web pages. It can be used as a toolkit for customizing the layout of different elements. The web browser renders every element as a rectangular box according to the CSS box model. Box-Model has multiple properties in CSS.",
+          "price": 197,
+          "img":"https://bit.ly/3TAXP5K",
+         
+          "name": "CSS Box-Model"
+        },
+        {
+          "_id": "63583270b492b2f39b38c11d",
+          "catagory_id": "05",
+          "details": "CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "price": 258,
+          "name": "CSS"
+        },
+        {
+          "_id": "635832709ed6a3791849ec8c",
+          "catagory_id": "03",
+          "details": "<ReferenceError: object is not defined>",
+          "img": "https://bit.ly/3DxYNtT",
+          "price": 72,
+          "name": "JavaScript"
+        },
+        {
+          "_id": "6358327021c6b5c3cd2865e4",
+          "catagory_id": "04",
+          "details": "<ReferenceError: object is not defined>",
+          "price": 162,
+          "img":"https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.jpg",
+          "name": "HTML"
+        },
+        {
+            "_id": "6358327021c6b5cycd2865e4",
+            "catagory_id": "04",
+            "details": "<ReferenceError: object is not defined>",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+            "price": 162,
+            "name": "Python Beganer"
+          },
+          {
+            "_id": "635832hd021c6b5cycd2865e4",
+            "catagory_id": "04",
+            "details": "<ReferenceError: object is not defined>",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+            "price": 162,
+            "name": "Python Advance"
+          },
+          {
+            "_id": "635styy327021c6b5cycd2865e4",
+            "catagory_id": "07",
+            "details": "<ReferenceError: object is not defined>",
+            "price": 162,
+            "img":"https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png",
+            "name": "PHP"
+          },
+          {
+            "_id": "6358327021c6b5cyretcd2865e4",
+            "catagory_id": "07",
+            "details": "<ReferenceError: object is not defined>",
+            "price": 162,
+            "img": "https://i.ytimg.com/vi/Qmt0QwzEmh0/maxresdefault.jpg",
+            "name": "Data Structure "
+          },
+          {
+            "_id": "635styy327021c6b5cycd2865e4",
+            "catagory_id": "01",
+            "details": "C is a general-purpose programming language, developed in 1972, and still quite popular. C is very powerful; it has been used to develop operating systems, databases, applications, etc.",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png",
+            "price": 162,
+            "name": "C"
+          },
+          {
+            "_id": "635styy327021c6b5cycd2865e4",
+            "catagory_id": "06",
+            "details": "<ReferenceError: object is not defined>",
+            "img":"https://www.investopedia.com/thmb/s56ubR5UguDpmw4xitrCznhYbp4=/735x0/algorithm-8507b849b8ee48e5887fda56916dd037.png",
+            "price": 162,
+            "name": "Algorithm"
+          },
+          {
+            "_id": "635styy327021c6b5cycd2865e4",
+            "catagory_id": "06",
+            "details": "<ReferenceError: object is not defined>",
+            "price": 162,
+    
+    
+            "img":"https://cdn.educba.com/academy/wp-content/uploads/2019/11/C-Algorithm.png",
+            "name": "Algorithm with C++"
+          },
+          {
+            "_id": "635styy327021c6b5cycd2865e4",
+            "catagory_id": "01",
+            "details": "C is a general-purpose programming language, developed in 1972, and still quite popular. C is very powerful; it has been used to develop operating systems, databases, applications, etc.",
+            "price": 162,
+            "img": "https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png",
+            "name": "C Basic"
+          }
+]
