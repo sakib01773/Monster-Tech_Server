@@ -9,7 +9,7 @@ const courses = require('./courses.json');
 const courseDetails = require('./course-details.json')
 
 app.get('/', (req, res) => {
-  res.send('Monster Tech Courses Is Running')
+  res.send('Monster Tech Courses Is Running');
 })
 
 app.get('/course', (req, res) => {
@@ -35,6 +35,13 @@ app.get('/courses/:id', (req, res) => {
   const id = req.params.id
   const course = courseDetails.find(n => n._id === id)
   res.send(course)
+  
+})
+
+app.get('/checkout/:id', (req, res) => {
+  const id = req.params.id
+  const checkout = courseDetails.find(n => n._id === id)
+  res.send(checkout)
   
 })
 
